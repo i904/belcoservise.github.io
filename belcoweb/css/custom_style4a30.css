@@ -86,3 +86,6 @@
 	 	width: calc(54.3% - 25px) !important;
 	}
 }
+.contacts__item {font-family: Raleway;
+	font-style: normal;
+}
